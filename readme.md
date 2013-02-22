@@ -14,5 +14,5 @@
 
 ---------------------------------------
 
-Презентация сделана на движке [Shower](https://github.com/shower/). И я благодарен [Вадиму Макееву](http://twitter.com/pepelsbey) за это.
+Презентация сделана на движке [Shower](https://github.com/shower/) и я благодарен [Вадиму Макееву](http://twitter.com/pepelsbey) за это.
 
