@@ -7,9 +7,12 @@
 одним архивом.
 
 
-
 * [Окончательная полная вариант презентация](http://matmuchrapna.github.com/a11y-2013/)
 * [UWDC презентация](http://matmuchrapna.github.com/a11y-2013/index - UWDC.html)
 * [FrontTalks презентация](http://matmuchrapna.github.com/a11y-2013/index - FrontTalks.html)
 * [Скачать всю презентацию одним файлом](http://matmuchrapna.github.com/a11y-2013/a11y-talk.zip)
+
+---------------------------------------
+
+Презентация сделана на движке [Shower](https://github.com/shower/). И я благодарен [Вадиму Макееву](http://twitter.com/pepelsbey) за это.
 
